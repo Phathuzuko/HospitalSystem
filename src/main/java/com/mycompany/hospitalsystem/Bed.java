@@ -6,7 +6,7 @@ package com.mycompany.hospitalsystem;
 
 
 //Class representing each and every a single hospital bed. 
-//Each bed has its own bed number,
+//Each bed has its own bed number assigned,
 // whether if it is occupied or not,
 //and if it is who is the patient who is currently allocated to it
 public class Bed {
