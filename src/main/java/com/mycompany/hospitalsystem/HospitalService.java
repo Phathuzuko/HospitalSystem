@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 
 //Core service class that maintains the list of registered patients
-//links patient management with bed allocation in the Ward 
+//links patient management with bed allocation in the Ward
 //Does the business rules like having no duplicate Patient IDs and only allowing Inpatients to be allocated a bed.
 
 public class HospitalService {
